@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pratibha65
 - 👀 I’m interested in developing projects and learning new skilss.
-- 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on simple web development projects.
+- 🌱 I’m currently working with Web development as well as Data Analytics Tools.
 - 📫 How to reach me : through my mail and github chats.
 
 <!---
